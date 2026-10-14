@@ -241,4 +241,5 @@ The current implementation can be improved with more consistent validation and e
 
 ## License
 
-No license has been specified yet.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
